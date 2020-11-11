@@ -19,12 +19,12 @@ Cостоит из 3 частей.
 2) Скачать и запустить скрипт командой:
 
    ```bash 
-   wget git.io/JkLgb && sh arch1.sh
+   wget git.io/JkLgb && sh JkLgb.sh
    ```
    или
    
     ```bash
-   curl -OL git.io/JkLgb && sh arch1.sh
+   curl -OL git.io/JkLgb && sh JkLgb.sh
    ```
    
    Запустится установка минимальной системы.
